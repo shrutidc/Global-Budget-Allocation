@@ -17,3 +17,6 @@ statsmodels>=0.14.0
 jupyter>=1.0.0
 ipykernel>=6.0.0
 nbconvert>=7.0.0
+
+# Testing
+pytest>=7.4.0

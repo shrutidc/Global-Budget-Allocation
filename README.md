@@ -106,6 +106,15 @@ python scripts/build_processed_data.py
 jupyter nbconvert --to notebook --execute --inplace notebooks/*.ipynb
 ```
 
+## Tests
+
+The `globalbudget` package is covered by a `pytest` suite (`tests/`) that checks data integrity,
+the wide→long reshape, feature engineering, and the forecasting/backtesting logic:
+
+```bash
+python -m pytest          # 26 tests
+```
+
 ## Use cases this project supports
 
 Machine learning · time-series forecasting · public-finance research · government-spending
