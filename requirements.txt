@@ -1,0 +1,19 @@
+# Core data stack (versions match the tested environment; >= for forward compatibility)
+pandas>=2.2.0
+numpy>=1.26.0
+pyarrow>=14.0.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Machine learning
+scikit-learn>=1.4.0
+
+# Time-series / statistics
+statsmodels>=0.14.0
+
+# Notebooks (for running the analysis notebooks)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+nbconvert>=7.0.0
