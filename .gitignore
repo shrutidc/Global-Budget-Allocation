@@ -29,10 +29,11 @@ htmlcov/
 .DS_Store
 Thumbs.db
 
-# IDE
+# IDE / tooling
 .idea/
 .vscode/
 *.swp
+.claude/
 
 # Data — processed artifacts are regenerable; keep raw tracked, ignore large processed caches
 # (processed CSV/parquet are small here, so they ARE committed for convenience.)
