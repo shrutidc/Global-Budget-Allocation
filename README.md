@@ -1,5 +1,7 @@
 # Global Government Budgets — Analysis Project
 
+[![CI](https://github.com/shrutidc/Global-Budget-Allocation/actions/workflows/ci.yml/badge.svg)](https://github.com/shrutidc/Global-Budget-Allocation/actions/workflows/ci.yml)
+
 A reproducible data-science project on **45 countries' government budgets, 1936–2026**, covering
 9 spending categories (in both percentage-of-budget and USD terms). It's built to support a wide
 range of use cases from a single clean pipeline: **EDA, data visualization, cross-country
