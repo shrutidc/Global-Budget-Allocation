@@ -1,0 +1,12 @@
+{
+  "missing_values": 0,
+  "duplicate_country_years": 0,
+  "rows_pct_not_100": 0,
+  "pct_sum_min": 99.96999999999998,
+  "pct_sum_max": 100.02999999999999,
+  "negative_amounts": 0,
+  "n_rows": 3654,
+  "n_countries": 45,
+  "year_min": 1936,
+  "year_max": 2026
+}
